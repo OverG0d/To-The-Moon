@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\ToTheMoon\\Source\\ToTheMoon\\ToTheMoon.Build.cs",
+		"D:\\ToTheMoon\\Source\\ToTheMoon.Target.cs",
+		"D:\\ToTheMoon\\Source\\ToTheMoonEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

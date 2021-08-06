@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ToTheMoon",
+			"Path": "D:\\ToTheMoon\\Source\\ToTheMoon.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ToTheMoonEditor",
+			"Path": "D:\\ToTheMoon\\Source\\ToTheMoonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

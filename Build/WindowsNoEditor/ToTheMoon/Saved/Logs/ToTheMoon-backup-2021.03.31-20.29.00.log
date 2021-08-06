@@ -1,0 +1,1032 @@
+﻿Log file open, 03/31/21 16:25:56
+LogPakFile: Display: Found Pak file ../../../ToTheMoon/Content/Paks/ToTheMoon-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../ToTheMoon/Content/Paks/ToTheMoon-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.105311
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz, GPU: Intel(R) HD Graphics Family
+LogInit: Compiled (64-bit): Jul 25 2020 02:13:35
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/ToTheMoon/Build/WindowsNoEditor/ToTheMoon/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.03.31-20.25.56:943][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Engine.ini]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[r.RayTracing:1]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Engine.ini]
+[2021.03.31-20.25.56:944][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Engine.ini]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Engine.ini]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.31-20.25.56:944][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Engine.ini]
+[2021.03.31-20.25.56:948][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.31-20.25.56:948][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.31-20.25.56:949][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2021.03.31-20.25.56:949][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2021.03.31-20.25.56:949][  0]LogHAL: Display: Platform has ~ 8 GB [8495403008 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.31-20.25.56:949][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2021.03.31-20.25.56:949][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.31-20.25.56:949][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.31-20.25.56:949][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.31-20.25.56:950][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.31-20.25.56:951][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../ToTheMoon/Saved/Config/WindowsNoEditor/Engine.ini]
+[2021.03.31-20.25.56:951][  0]LogInit: Computer: DESKTOP-HS4JKP1
+[2021.03.31-20.25.56:951][  0]LogInit: User: ardai
+[2021.03.31-20.25.56:951][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.03.31-20.25.56:951][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.31-20.25.56:952][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.03.31-20.25.56:952][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2021.03.31-20.25.56:952][  0]LogMemory: Process Physical Memory: 62.33 MB used, 62.34 MB peak
+[2021.03.31-20.25.56:952][  0]LogMemory: Process Virtual Memory: 70.27 MB used, 70.27 MB peak
+[2021.03.31-20.25.56:952][  0]LogMemory: Physical Memory: 4107.04 MB used,  3994.81 MB free, 8101.85 MB total
+[2021.03.31-20.25.56:952][  0]LogMemory: Virtual Memory: 4922.45 MB used,  134212808.00 MB free, 134217728.00 MB total
+[2021.03.31-20.25.56:954][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.31-20.25.56:964][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.31-20.25.56:965][  0]LogInit: Using OS detected language (en-US).
+[2021.03.31-20.25.56:965][  0]LogInit: Using OS detected locale (en-CA).
+[2021.03.31-20.25.56:965][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.31-20.25.56:997][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.31-20.25.56:997][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.31-20.25.57:011][  0]LogD3D12RHI: Aftermath initialized
+[2021.03.31-20.25.57:011][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2021.03.31-20.25.57:025][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.31-20.25.57:078][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 750 Ti (Max supported Feature Level 11_0)
+[2021.03.31-20.25.57:078][  0]LogD3D12RHI: Adapter has 2018MB of dedicated video memory, 0MB of dedicated system memory, and 4050MB of shared system memory, 1 output[s]
+[2021.03.31-20.25.57:091][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) HD Graphics Family (Max supported Feature Level 11_1)
+[2021.03.31-20.25.57:091][  0]LogD3D12RHI: Adapter has 112MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 0 output[s]
+[2021.03.31-20.25.57:106][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2021.03.31-20.25.57:106][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 4050MB of shared system memory, 0 output[s]
+[2021.03.31-20.25.57:106][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2021.03.31-20.25.57:117][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2021.03.31-20.25.57:150][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2021.03.31-20.25.57:150][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2021.03.31-20.25.57:211][  0]LogD3D12RHI: Warning: [GPUBreadCrumb] Failed to OpenExistingHeapFromAddress, error: 80070057
+[2021.03.31-20.25.57:231][  0]LogD3D12RHI: Warning: [GPUBreadCrumb] Failed to OpenExistingHeapFromAddress, error: 80070057
+[2021.03.31-20.25.57:249][  0]LogD3D12RHI: Warning: [GPUBreadCrumb] Failed to OpenExistingHeapFromAddress, error: 80070057
+[2021.03.31-20.25.57:255][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2021.03.31-20.25.57:255][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2021.03.31-20.25.57:259][  0]LogD3D12RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.31-20.25.57:259][  0]LogWindows: EnumDisplayDevices:
+[2021.03.31-20.25.57:259][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2021.03.31-20.25.57:260][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2021.03.31-20.25.57:260][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2021.03.31-20.25.57:261][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.03.31-20.25.57:261][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2021.03.31-20.25.57:261][  0]LogD3D12RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.03.31-20.25.57:261][  0]LogD3D12RHI:      Driver Date: Unknown
+[2021.03.31-20.25.57:261][  0]LogRHI: Texture pool is 1081 MB (70% of 1544 MB)
+[2021.03.31-20.25.57:261][  0]LogD3D12RHI: Async texture creation enabled
+[2021.03.31-20.25.57:261][  0]LogD3D12RHI: RHI does not have support for 64 bit atomics
+[2021.03.31-20.25.57:280][  0]LogShaderLibrary: Display: Using ../../../ToTheMoon/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 2390 unique shaders.
+[2021.03.31-20.25.57:280][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2021.03.31-20.25.57:281][  0]LogTemp: Warning: Clearing the OS Cache
+[2021.03.31-20.25.57:283][  0]LogPakFile: New pak file ../../../ToTheMoon/Content/Paks/ToTheMoon-WindowsNoEditor.pak added to pak precacher.
+[2021.03.31-20.25.57:334][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.31-20.25.57:335][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.31-20.25.57:436][  0]LogShaderLibrary: Display: Using ../../../ToTheMoon/Content/ShaderArchive-ToTheMoon-PCD3D_SM5.ushaderbytecode for material shader code. Total 2981 unique shaders.
+[2021.03.31-20.25.57:436][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library ToTheMoon
+[2021.03.31-20.25.57:436][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2021.03.31-20.25.57:437][  0]LogRHI: Base name for record PSOs is ../../../ToTheMoon/Saved/CollectedPSOs/++UE4+Release-4.25-CL-13942748-ToTheMoon_PCD3D_SM5_488CA208480A5AEE3EDD7C970D440CAA.rec.upipelinecache
+[2021.03.31-20.25.57:437][  0]LogRHI: Could not open FPipelineCacheFile: ../../../ToTheMoon/Content/PipelineCaches/Windows/ToTheMoon_PCD3D_SM5.upipelinecache
+[2021.03.31-20.25.57:437][  0]LogRHI: Display: Failed to open default shader pipeline cache for ToTheMoon using shader platform 0.
+[2021.03.31-20.25.57:437][  0]LogRHI: Display: Failed to open default shader pipeline cache for ToTheMoon using shader platform 0.
+[2021.03.31-20.25.57:437][  0]LogInit: Using OS detected language (en-US).
+[2021.03.31-20.25.57:437][  0]LogInit: Using OS detected locale (en-CA).
+[2021.03.31-20.25.57:438][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2021.03.31-20.25.57:438][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
+[2021.03.31-20.25.57:438][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.03.31-20.25.57:438][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.03.31-20.25.57:443][  0]LogTextLocalizationManager: Compacting localization data took   3.80ms
+[2021.03.31-20.25.57:454][  0]LogAssetRegistry: FAssetRegistry took 0.0110 seconds to start up
+[2021.03.31-20.25.57:582][  0]LogStreaming: Display: Flushing async loaders.
+[2021.03.31-20.25.57:583][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.000125 seconds
+[2021.03.31-20.25.57:587][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2021.03.31-20.25.57:606][  0]LogNetVersion: ToTheMoon 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1184099217)
+[2021.03.31-20.25.57:648][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.31-20.25.57:648][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.31-20.25.57:736][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001B5996D1D00), frame # 0
+[2021.03.31-20.25.57:736][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B591274AC0), frame # 0
+[2021.03.31-20.25.57:737][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B5905E6200), frame # 0
+[2021.03.31-20.25.57:745][  0]LogMoviePlayer: Initializing movie player
+[2021.03.31-20.25.57:748][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.31-20.25.57:748][  0]LogOcInput: OculusInput pre-init called
+[2021.03.31-20.25.57:753][  0]LogUObjectArray: 14881 objects as part of root set at end of initial load.
+[2021.03.31-20.25.57:753][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2021.03.31-20.25.57:753][  0]LogUObjectAllocator: 3128056 out of 0 bytes used by permanent object pool.
+[2021.03.31-20.25.57:753][  0]LogUObjectArray: CloseDisregardForGC: 14881/14881 objects in disregard for GC pool
+[2021.03.31-20.25.57:754][  0]LogEngine: Initializing Engine...
+[2021.03.31-20.25.57:755][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.31-20.25.57:756][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.31-20.25.57:839][  0]LogPakFile: Precache HighWater 16MB
+
+[2021.03.31-20.25.57:839][  0]LogPakFile: Precache HighWater 32MB
+
+[2021.03.31-20.25.57:839][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.31-20.25.57:840][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-20.25.57:840][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-20.25.57:840][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-20.25.57:840][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-20.25.57:840][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-20.25.57:840][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-20.25.57:840][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-20.25.57:840][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-20.25.57:840][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-20.25.57:840][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-20.25.57:848][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.31-20.25.57:871][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-20.25.57:871][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-20.25.57:949][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.03.31-20.25.57:949][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-20.25.57:951][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-20.25.57:951][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-20.25.57:952][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-20.25.57:953][  0]LogInit: FAudioDevice initialized.
+[2021.03.31-20.25.57:954][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.31-20.25.57:954][  0]LogInit: Texture streaming: Enabled
+[2021.03.31-20.25.57:958][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-20.25.57:958][  0]LogInit: Display: Game Engine Initialized.
+[2021.03.31-20.25.57:959][  0]LogInit: Display: Starting Game.
+[2021.03.31-20.25.57:959][  0]LogNet: Browse: /Game/FirstPersonCPP/Maps/MainMenu?Name=Player
+[2021.03.31-20.25.57:959][  0]LogLoad: LoadMap: /Game/FirstPersonCPP/Maps/MainMenu?Name=Player
+[2021.03.31-20.25.57:959][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.03.31-20.25.57:961][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-20.25.57:961][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-20.25.57:971][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.03.31-20.25.57:993][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.31-20.25.57:993][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B5996C5000), frame # 0
+[2021.03.31-20.25.57:994][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B5DCC2E840), frame # 0
+[2021.03.31-20.25.57:994][  0]LogLoad: Game class is 'GameMode'
+[2021.03.31-20.25.57:995][  0]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2021.03.31-16.25.57
+[2021.03.31-20.25.57:995][  0]LogWorld: Bringing up level for play took: 0.000722
+[2021.03.31-20.25.57:996][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.03.31-20.25.57:996][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.03.31-20.25.57:996][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.03.31-20.25.57:997][  0]LogUMG: Display: Widget Class MainMenu_UI_C - Loaded Fast Template.
+[2021.03.31-20.25.57:998][  0]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.03.31-20.25.57:998][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.03.31-20.25.57:998][  0]LogLoad: Took 0.038677 seconds to LoadMap(/Game/FirstPersonCPP/Maps/MainMenu)
+[2021.03.31-20.25.57:998][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2021.03.31-20.25.58:033][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2021.03.31-20.25.58:033][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2021.03.31-20.25.58:033][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2021.03.31-20.25.58:033][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2021.03.31-20.25.58:033][  0]LogLoad: (Engine Initialization) Total time: 1.39 seconds
+[2021.03.31-20.25.58:052][  0]LogRHI: Display: Encountered a new graphics PSO: 1320784514
+[2021.03.31-20.25.58:052][  0]LogRHI: Display: New Graphics PSO (1320784514) Description: CAB5FCA7871C0200AD9AEEA9C030C506A56059A5,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 0 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<1 3 0 7 0 0 0 0 7 0 0 0 255 255>,1,11,1049100,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 3 0 12 0>,<1 0 20 1 4 1>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:060][  0]LogRHI: Display: Encountered a new graphics PSO: 212001359
+[2021.03.31-20.25.58:060][  0]LogRHI: Display: New Graphics PSO (212001359) Description: 21518F0F28F6D0F34173A23BBDB43093C5428D2E,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 0 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 0 7 0 0 0 0 7 0 0 0 255 255>,1,11,1049100,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 3 0 12 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:066][  0]LogRHI: Display: Encountered a new graphics PSO: 139119232
+[2021.03.31-20.25.58:066][  0]LogRHI: Display: New Graphics PSO (139119232) Description: 5EC853B38C63ECC00F099B5BB30C23ECA92C8203,332E48ACD522FD2417BE7EF5D62E0F776C7C54CA,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,1048585,0,0,2,25,0,0,2,9,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:069][  0]LogRHI: Display: Encountered a new graphics PSO: 1168445748
+[2021.03.31-20.25.58:069][  0]LogRHI: Display: New Graphics PSO (1168445748) Description: 90E880A06EE66DAFCB6C87076B719A148EEF7959,2ECE73B4C71BE2298F76B34957A049B6B2AAAC4F,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,1049097,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:071][  0]LogRHI: Display: Encountered a new graphics PSO: 1879098927
+[2021.03.31-20.25.58:071][  0]LogRHI: Display: New Graphics PSO (1879098927) Description: 90E880A06EE66DAFCB6C87076B719A148EEF7959,E53436980A109F6F39EB8EC1078E440F6E63D041,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,2,1049097,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:071][  0]LogRHI: Display: Encountered a new graphics PSO: 346797176
+[2021.03.31-20.25.58:071][  0]LogRHI: Display: New Graphics PSO (346797176) Description: 90E880A06EE66DAFCB6C87076B719A148EEF7959,0696A74E931C31E95178D2A32974B891C91D300B,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,3,65545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:071][  0]LogRHI: Display: Encountered a new graphics PSO: 280261515
+[2021.03.31-20.25.58:071][  0]LogRHI: Display: New Graphics PSO (280261515) Description: 43D90717AD90D7128BAF36E5EBDB3C74B2E172D8,87E397C9F1834627D90F009182BA283A34104803,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 4 0 0 4 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,1114121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:071][  0]LogRHI: Display: Encountered a new graphics PSO: 1906442235
+[2021.03.31-20.25.58:071][  0]LogRHI: Display: New Graphics PSO (1906442235) Description: 2BBED87C942EF2459E122636BAD5A15C322F2D81,5284DDC721F9E3B8BD73B01FC3519F62F7581D0A,39E3BC937C9A3C90AEFF11549859EDDD416EC743,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,1,6,10,1073807369,0,0,10,1073807369,0,0,10,1073807369,0,0,10,1073807369,0,0,10,1073807369,0,0,10,1073807369,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 2 0 16 0>,<0 8 2 1 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:073][  0]LogRHI: Display: Encountered a new graphics PSO: 3333768488
+[2021.03.31-20.25.58:073][  0]LogRHI: Display: New Graphics PSO (3333768488) Description: 26E6454944535E94E535582E0E9A71595C281DB7,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 0 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 3 1 7 0 6 0 1 7 0 7 0 255 255>,1,11,1049100,1,1,0,1,0,1,2,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 4 0 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:073][  0]LogRHI: Display: Encountered a new graphics PSO: 1645253214
+[2021.03.31-20.25.58:073][  0]LogRHI: Display: New Graphics PSO (1645253214) Description: 26E6454944535E94E535582E0E9A71595C281DB7,61A9A8EF11F6B398962BD41B47F3E58AF27A5F3D,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 4 5 0 1 0 3 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 2 1 0>,<0 7 1 5 1 1 1 0 5 1 1 1 255 255>,1,11,1049100,1,1,0,1,1,1,2,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 4 0 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:074][  0]LogRHI: Display: Encountered a new graphics PSO: 2926470380
+[2021.03.31-20.25.58:074][  0]LogRHI: Display: New Graphics PSO (2926470380) Description: 2BBED87C942EF2459E122636BAD5A15C322F2D81,3B5C91C759E6D6C355667898AA66CB82B7BB3499,39E3BC937C9A3C90AEFF11549859EDDD416EC743,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 1 0 1 1 15 0 1 1 0 1 1 7 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,1,2,10,1073807369,0,0,10,1073807369,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 2 0 16 0>,<0 8 2 1 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:074][  0]LogRHI: Display: Encountered a new graphics PSO: 114207578
+[2021.03.31-20.25.58:074][  0]LogRHI: Display: New Graphics PSO (114207578) Description: 2E45D6FBF0EF03920D5025941CDDCC8BB7E37133,7AAF2E2E977EE80E521A6F9EDC56AB4632B54BF2,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 1 0 1 1 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,11,1049100,1,1,0,1,0,1,10,1114121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:076][  0]LogRHI: Display: Encountered a new graphics PSO: 744233037
+[2021.03.31-20.25.58:076][  0]LogRHI: Display: New Graphics PSO (744233037) Description: 2BBED87C942EF2459E122636BAD5A15C322F2D81,DD958E7CB126A78107D681DB23D298AF6ED8F266,39E3BC937C9A3C90AEFF11549859EDDD416EC743,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,1,2,10,1073807369,0,0,10,1073807369,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 2 0 16 0>,<0 8 2 1 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:078][  0]LogRHI: Display: Encountered a new graphics PSO: 494182323
+[2021.03.31-20.25.58:078][  0]LogRHI: Display: New Graphics PSO (494182323) Description: 43D90717AD90D7128BAF36E5EBDB3C74B2E172D8,FC97E9EC032CD0F62DBCF69C283B6798E54F6E7B,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,65545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:078][  0]LogRHI: Display: Encountered a new graphics PSO: 3705863819
+[2021.03.31-20.25.58:078][  0]LogRHI: Display: New Graphics PSO (3705863819) Description: 43D90717AD90D7128BAF36E5EBDB3C74B2E172D8,BF4437A675025B9C4B6576A09B9700FFFCBB644D,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 1 0 1 1 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,1114121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:081][  0]LogRHI: Display: Encountered a new graphics PSO: 4140767795
+[2021.03.31-20.25.58:081][  0]LogRHI: Display: New Graphics PSO (4140767795) Description: FF061D5B676E0F5A63535767A1DBA599C5D95A96,28C0C303111BCB7786EB998A89708BEE02E8E102,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1>,<0.000000 0.000000 2 0 1 0>,<0 7 1 7 2 2 2 0 7 2 2 2 255 255>,1,11,1049100,1,1,0,1,1,1,10,1114121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 4 0 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:090][  0]LogRHI: Display: Encountered a new graphics PSO: 3176256010
+[2021.03.31-20.25.58:090][  0]LogRHI: Display: New Graphics PSO (3176256010) Description: 43D90717AD90D7128BAF36E5EBDB3C74B2E172D8,47A982FCE6BE82B4BBDF8270EFF715A0A8160B60,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:102][  0]LogRHI: Display: Encountered a new graphics PSO: 3373868149
+[2021.03.31-20.25.58:102][  0]LogRHI: Display: New Graphics PSO (3373868149) Description: 90E880A06EE66DAFCB6C87076B719A148EEF7959,AC2DD17C8A52F43D400B55FD36C06A34F57F0CD7,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,9,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:102][  0]LogRHI: Display: Encountered a new graphics PSO: 3368604849
+[2021.03.31-20.25.58:102][  0]LogRHI: Display: New Graphics PSO (3368604849) Description: 43D90717AD90D7128BAF36E5EBDB3C74B2E172D8,DF232817A5F075779BFED32A688B622F331769F7,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,9,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:105][  0]LogRHI: Display: Encountered a new graphics PSO: 4084813257
+[2021.03.31-20.25.58:105][  0]LogRHI: Display: New Graphics PSO (4084813257) Description: 90E880A06EE66DAFCB6C87076B719A148EEF7959,0AEA47C14CC323C4A34BBC7F2F025429E9380731,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,1,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:105][  0]LogRHI: Display: Encountered a new graphics PSO: 2912862020
+[2021.03.31-20.25.58:105][  0]LogRHI: Display: New Graphics PSO (2912862020) Description: 90E880A06EE66DAFCB6C87076B719A148EEF7959,BF2F7EB5E8CF7009BA3A515A2C27CC1047604031,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,1,65545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:108][  0]LogRHI: Display: Encountered a new graphics PSO: 1898953844
+[2021.03.31-20.25.58:108][  0]LogRHI: Display: New Graphics PSO (1898953844) Description: F2329F0AC962FDA9FA471F7FA6B5C58E12B86028,89754ECFCD358422F18863D10A00FB0583B66D46,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,9,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:108][  0]LogRHI: Display: Encountered a new graphics PSO: 1019219834
+[2021.03.31-20.25.58:110][  0]LogRHI: Display: New Graphics PSO (1019219834) Description: F2329F0AC962FDA9FA471F7FA6B5C58E12B86028,EC6D0F899998E552BBD67C27381057F5ED0A6EA2,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,9,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:110][  0]LogRHI: Display: Encountered a new graphics PSO: 1352514576
+[2021.03.31-20.25.58:110][  0]LogRHI: Display: New Graphics PSO (1352514576) Description: CD710A7CBF3F5420BCF27B3EDFC9E2E610C7CD3B,8E3BC89AA93041D6DEFFF8C5014C5B5557D66A5E,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,9,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:110][  0]LogRHI: Display: Encountered a new graphics PSO: 3803956601
+[2021.03.31-20.25.58:110][  0]LogRHI: Display: New Graphics PSO (3803956601) Description: CD710A7CBF3F5420BCF27B3EDFC9E2E610C7CD3B,6574754A4D0C2AD1E6E8E6E4A0FDE3135CBD7A1C,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,9,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:110][  0]LogRHI: Display: Encountered a new graphics PSO: 3546943791
+[2021.03.31-20.25.58:110][  0]LogRHI: Display: New Graphics PSO (3546943791) Description: 5DA435A5F611D6A845072A327D6FF3D89C921660,6DA85FD4EED57620407F9FCC14C876AD582F705E,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,9,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:110][  0]LogRHI: Display: Encountered a new graphics PSO: 2345207489
+[2021.03.31-20.25.58:110][  0]LogRHI: Display: New Graphics PSO (2345207489) Description: 5DA435A5F611D6A845072A327D6FF3D89C921660,2636C1C0CDDAE0CA35AA2524BB3003A7BE540CC8,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,9,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:111][  0]LogRHI: Display: Encountered a new graphics PSO: 2450243238
+[2021.03.31-20.25.58:111][  0]LogRHI: Display: New Graphics PSO (2450243238) Description: 225DB126EC48D9BDE579062123794D5BF47367E7,174867757C9DF9B53EE915935666D017982ED920,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,9,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:111][  0]LogRHI: Display: Encountered a new graphics PSO: 3507233935
+[2021.03.31-20.25.58:113][  0]LogRHI: Display: New Graphics PSO (3507233935) Description: 225DB126EC48D9BDE579062123794D5BF47367E7,43C106907F3367E85450688AB77FD8650FE4C4F3,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,9,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:113][  0]LogRHI: Display: Encountered a new graphics PSO: 922584020
+[2021.03.31-20.25.58:113][  0]LogRHI: Display: New Graphics PSO (922584020) Description: 2BBED87C942EF2459E122636BAD5A15C322F2D81,6A7A60320B0EB9B8F5C566509919DF234573D9E9,39E3BC937C9A3C90AEFF11549859EDDD416EC743,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,1,1,18,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 2 0 16 0>,<0 8 2 1 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:113][  0]LogRHI: Display: Encountered a new graphics PSO: 3332387307
+[2021.03.31-20.25.58:113][  0]LogRHI: Display: New Graphics PSO (3332387307) Description: 095D08C5CC5FE37166C003D70B23BD5CF52542E9,48F7F65DB2AB4D96537C250641FB1953BFD65730,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 7 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:130][  0]LogRHI: Display: Encountered a new graphics PSO: 3682349412
+[2021.03.31-20.25.58:130][  0]LogRHI: Display: New Graphics PSO (3682349412) Description: FF061D5B676E0F5A63535767A1DBA599C5D95A96,7E56777A5B0A664E7DA88D8326724B17750FA4E6,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 4 0 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:130][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.31-20.25.58:138][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-20.25.58:215][  0]LogRHI: Display: Encountered a new graphics PSO: 1024048703
+[2021.03.31-20.25.58:215][  0]LogRHI: Display: New Graphics PSO (1024048703) Description: 25CF0A7137981930D5572BA42D5AE30D120DD4C5,B4822497DBAF767144E166742F81B731563E93E8,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,2,33554441,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 8 0 4 1>,<1 0 2 1 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:219][  0]LogRHI: Display: Encountered a new graphics PSO: 2849133317
+[2021.03.31-20.25.58:219][  0]LogRHI: Display: New Graphics PSO (2849133317) Description: CFE4045FD6AC3C91B62F51BA26A40EC09700F54B,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 0 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<1 1 0 7 0 0 0 0 7 0 0 0 255 255>,1,12,12,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,<0 0 3 0 12 0>,<1 4 5 2 8 0>,<2 0 20 1 4 1>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:219][  0]LogRHI: Display: Encountered a new graphics PSO: 3886133487
+[2021.03.31-20.25.58:219][  0]LogRHI: Display: New Graphics PSO (3886133487) Description: 344F439A239B1E277C94A354C5AADE5E4C6B4B2B,D6CB01EB9B73846F77510DF13F3F5130E7A813D6,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,1048585,0,0,2,25,0,0,2,9,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:219][  0]LogRHI: Display: Encountered a new graphics PSO: 215342604
+[2021.03.31-20.25.58:219][  0]LogRHI: Display: New Graphics PSO (215342604) Description: 43D90717AD90D7128BAF36E5EBDB3C74B2E172D8,DE8D1E7D4F0065C189F437BDB4FBE8C29ECD822F,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 1 0 1 1 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,1114121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:223][  0]LogRHI: Display: Encountered a new graphics PSO: 4008588603
+[2021.03.31-20.25.58:223][  0]LogRHI: Display: New Graphics PSO (4008588603) Description: 5784BDA908DBAC385BD06289B3AF9EB21C81B61C,ABDE70F71E1976CBC274AFBA651CAA513E1D4259,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 4 5 0 1 5 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,<0 0 4 0 40 0>,<0 16 2 1 40 0>,<0 24 2 2 40 0>,<0 32 8 3 40 0>,<0 36 15 4 40 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:223][  0]LogRHI: Display: Encountered a new graphics PSO: 3545363069
+[2021.03.31-20.25.58:223][  0]LogRHI: Display: New Graphics PSO (3545363069) Description: 5784BDA908DBAC385BD06289B3AF9EB21C81B61C,71CD4D95546E368B2A6016236F56D3C7DDDA03A8,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 4 5 0 1 5 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,<0 0 4 0 40 0>,<0 16 2 1 40 0>,<0 24 2 2 40 0>,<0 32 8 3 40 0>,<0 36 15 4 40 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.25.58:229][  0]LogSlate: Slate font cache was flushed
+[2021.03.31-20.25.58:233][  1]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2021.03.31-20.25.59:707][103]LogRHI: Display: Encountered a new graphics PSO: 2432156111
+[2021.03.31-20.25.59:707][103]LogRHI: Display: New Graphics PSO (2432156111) Description: 5784BDA908DBAC385BD06289B3AF9EB21C81B61C,6DC8697D7DF09BEDF7BED6FEE24F72C48AB3410F,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 4 5 0 1 5 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,<0 0 4 0 40 0>,<0 16 2 1 40 0>,<0 24 2 2 40 0>,<0 32 8 3 40 0>,<0 36 15 4 40 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:102][471]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.03.31-20.26.20:102][471]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.03.31-20.26.20:102][471]LogNet: Browse: /Game/FirstPersonCPP/Maps/FirstPersonExampleMap
+[2021.03.31-20.26.20:102][471]LogLoad: LoadMap: /Game/FirstPersonCPP/Maps/FirstPersonExampleMap
+[2021.03.31-20.26.20:102][471]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/MainMenu
+[2021.03.31-20.26.20:104][471]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-20.26.20:105][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-20.26.20:141][471]LogAudio: Display: Waited 35.100502 ms for audio thread.
+[2021.03.31-20.26.20:144][471]LogAudio: Display: Waited 38.159401 ms for audio thread.
+[2021.03.31-20.26.20:148][471]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B5996C5000), frame # 1471
+[2021.03.31-20.26.20:148][471]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B5DCC2E840), frame # 1471
+[2021.03.31-20.26.20:150][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.03.31-20.26.20:160][471]LogStreaming: Display: Flushing async loaders.
+[2021.03.31-20.26.20:205][471]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
+[2021.03.31-20.26.20:205][471]LogMaterial: Warning: Invalid shader map ID caching shaders for 'UFO_texture2', will use default material.
+[2021.03.31-20.26.20:205][471]LogMaterial: Can't compile UFO_texture2 with cooked content, will use default material instead
+[2021.03.31-20.26.20:205][471]LogMaterial: Warning: /Game/SpaceModels/UFO_texture2.UFO_texture2: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.31-20.26.20:228][471]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.31-20.26.20:229][471]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B59AB69A00), frame # 1471
+[2021.03.31-20.26.20:229][471]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B59A189700), frame # 1471
+[2021.03.31-20.26.20:229][471]LogLoad: Game class is 'MyToTheMoonGameMode_C'
+[2021.03.31-20.26.20:241][471]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.31-16.26.20
+[2021.03.31-20.26.20:241][471]LogWorld: Bringing up level for play took: 0.010947
+[2021.03.31-20.26.20:248][471]LogUMG: Display: Widget Class Player_UI_C - Loaded Fast Template.
+[2021.03.31-20.26.20:251][471]LogLoad: Took 0.148778 seconds to LoadMap(/Game/FirstPersonCPP/Maps/FirstPersonExampleMap)
+[2021.03.31-20.26.20:262][472]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.31-20.26.20:273][473]LogRHI: Display: Encountered a new graphics PSO: 3278683152
+[2021.03.31-20.26.20:275][473]LogRHI: Display: New Graphics PSO (3278683152) Description: 659789A77FB8C9901D0A7E3F286A6062DA837072,C1A20D51E1091F2B72A6761E5A7E3A8CA8183473,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 0 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<1 3 0 7 0 0 0 0 7 0 0 0 255 255>,1,11,1049100,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,<0 0 3 0 12 0>,<1 0 14 1 16 0>,<1 8 14 2 16 0>,<2 0 8 3 0 0>,<3 0 12 4 4 0>,<3 0 12 5 4 0>,<3 0 12 6 4 0>,<3 0 12 7 4 0>,<3 0 12 15 4 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:282][473]LogRHI: Display: Encountered a new graphics PSO: 15075223
+[2021.03.31-20.26.20:282][473]LogRHI: Display: New Graphics PSO (15075223) Description: FF061D5B676E0F5A63535767A1DBA599C5D95A96,28C0C303111BCB7786EB998A89708BEE02E8E102,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1>,<0.000000 0.000000 2 0 1 0>,<1 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,12,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 4 0 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:285][473]LogRHI: Display: Encountered a new graphics PSO: 3231454098
+[2021.03.31-20.26.20:285][473]LogRHI: Display: New Graphics PSO (3231454098) Description: FE850A377AF59873564394AC863688BB462F543C,8D3C6988F2D6C61E0E93AC636B6B1FC06CAB628A,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,1048585,0,0,2,25,0,0,2,9,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,9,<0 0 3 0 12 0>,<1 0 14 1 16 0>,<1 8 14 2 16 0>,<2 0 8 3 0 0>,<3 0 12 4 4 0>,<3 0 12 5 4 0>,<3 0 12 6 4 0>,<3 0 12 7 4 0>,<3 0 12 15 4 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:285][473]LogRHI: Display: Encountered a new graphics PSO: 1974119618
+[2021.03.31-20.26.20:285][473]LogRHI: Display: New Graphics PSO (1974119618) Description: FE850A377AF59873564394AC863688BB462F543C,8899A6ED3DE20B49205018903663B63DD3C418DB,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,1048585,0,0,2,25,0,0,2,9,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,9,<0 0 3 0 12 0>,<1 0 14 1 16 0>,<1 8 14 2 16 0>,<2 0 8 3 0 0>,<3 0 12 4 4 0>,<3 0 12 5 4 0>,<3 0 12 6 4 0>,<3 0 12 7 4 0>,<3 0 12 15 4 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:287][473]LogRHI: Display: Encountered a new graphics PSO: 266194364
+[2021.03.31-20.26.20:287][473]LogRHI: Display: New Graphics PSO (266194364) Description: B385770D4DE8C64EF3C1D39FC4E9034AEA4E3C6E,3EBC5E6C9F50D1260812A13545BB717693F53F2B,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,1048585,0,0,2,25,0,0,2,9,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:287][473]LogRHI: Display: Encountered a new graphics PSO: 2968493297
+[2021.03.31-20.26.20:287][473]LogRHI: Display: New Graphics PSO (2968493297) Description: 344F439A239B1E277C94A354C5AADE5E4C6B4B2B,466DAFDC5DB97B4EA848FFE49465F88A67528532,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,1048585,0,0,2,25,0,0,2,9,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:287][473]LogRHI: Display: Encountered a new graphics PSO: 699973784
+[2021.03.31-20.26.20:287][473]LogRHI: Display: New Graphics PSO (699973784) Description: 344F439A239B1E277C94A354C5AADE5E4C6B4B2B,CDA5A5FAE35DAAB354FC232835CBE442183AD58B,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,1048585,0,0,2,25,0,0,2,9,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:289][473]LogRHI: Display: Encountered a new graphics PSO: 3421161006
+[2021.03.31-20.26.20:289][473]LogRHI: Display: New Graphics PSO (3421161006) Description: E9F846EC61061F6848B5FB47EB5ADB1BB8B63E0B,CBD5F93407D71D6F7834521FA7CA9CC75F643871,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 0 7 0 0 0 0 7 0 0 0 255 255>,1,11,1049100,1,1,1,1,0,1,14,65545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,<0 0 3 0 12 0>,<1 0 14 1 16 0>,<1 8 14 2 16 0>,<2 0 8 3 0 0>,<3 0 12 4 4 0>,<3 0 12 5 4 0>,<3 0 12 6 4 0>,<3 0 12 7 4 0>,<3 0 12 15 4 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:289][473]LogRHI: Display: Encountered a new graphics PSO: 1386374746
+[2021.03.31-20.26.20:289][473]LogRHI: Display: New Graphics PSO (1386374746) Description: B6E93355762A738947C60F52C38352257D40BB78,CBD5F93407D71D6F7834521FA7CA9CC75F643871,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 0 7 0 0 0 0 7 0 0 0 255 255>,1,11,1049100,1,1,1,1,0,1,14,65545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:292][473]LogRHI: Display: Encountered a new graphics PSO: 3980160099
+[2021.03.31-20.26.20:292][473]LogRHI: Display: New Graphics PSO (3980160099) Description: CAB5FCA7871C0200AD9AEEA9C030C506A56059A5,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 0 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 255>,1,11,1049100,1,1,0,1,0,1,2,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 3 0 12 0>,<1 0 20 1 4 1>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:292][473]LogRHI: Display: Encountered a new graphics PSO: 1259400233
+[2021.03.31-20.26.20:292][473]LogRHI: Display: New Graphics PSO (1259400233) Description: 21518F0F28F6D0F34173A23BBDB43093C5428D2E,041603C6782B55DB4A7896F4D3845D68D760DB40,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<2 1 1 2 1 1 12 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 7 1 5 1 1 1 0 5 1 1 1 255 255>,1,11,1049100,1,1,0,1,0,1,2,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 4 0 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:292][473]LogRHI: Display: Encountered a new graphics PSO: 534885300
+[2021.03.31-20.26.20:292][473]LogRHI: Display: New Graphics PSO (534885300) Description: 21518F0F28F6D0F34173A23BBDB43093C5428D2E,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 0 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 3 1 7 0 6 0 1 7 0 7 0 255 255>,1,11,1049100,1,1,0,1,0,1,2,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 4 0 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:292][473]LogRHI: Display: Encountered a new graphics PSO: 839708037
+[2021.03.31-20.26.20:292][473]LogRHI: Display: New Graphics PSO (839708037) Description: 21518F0F28F6D0F34173A23BBDB43093C5428D2E,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 0 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 3 1 7 0 0 6 1 7 0 0 7 255 255>,1,11,1049100,1,1,0,1,0,1,2,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 4 0 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:292][473]LogRHI: Display: Encountered a new graphics PSO: 4262221263
+[2021.03.31-20.26.20:292][473]LogRHI: Display: New Graphics PSO (4262221263) Description: 21518F0F28F6D0F34173A23BBDB43093C5428D2E,F1B4B8D8B9AAC650DA541ED73FBB227E1EB87215,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<2 1 1 2 1 1 12 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 7 1 5 1 1 1 0 5 1 1 1 255 255>,1,11,1049100,1,1,0,1,0,1,2,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 4 0 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:292][473]LogRHI: Display: Encountered a new graphics PSO: 3316696016
+[2021.03.31-20.26.20:294][473]LogRHI: Display: New Graphics PSO (3316696016) Description: 2BBED87C942EF2459E122636BAD5A15C322F2D81,88272313C05C0ACC6CF144DF6BFE9934EB0552EF,39E3BC937C9A3C90AEFF11549859EDDD416EC743,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 1 0 1 1 15 0 1 1 0 1 1 7 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,1,2,10,1073807369,0,0,10,1073807369,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 2 0 16 0>,<0 8 2 1 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:296][473]LogRHI: Display: Encountered a new graphics PSO: 2111793504
+[2021.03.31-20.26.20:296][473]LogRHI: Display: New Graphics PSO (2111793504) Description: 6CC0CE2A223480F144D2733A89159D7FC2717F23,59B52D046013B47ECDFC869E2B89273EF07594A5,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 4 0 1 0 7 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,11,1049100,1,1,0,1,0,1,10,1114121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 2 0 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:300][473]LogRHI: Display: Encountered a new graphics PSO: 1833149587
+[2021.03.31-20.26.20:300][473]LogRHI: Display: New Graphics PSO (1833149587) Description: A3DADF35EDE7C50E0F596D54CA04BBB340071C3D,6EEED5935B7075D12A16CDBF829F9DCE2556218C,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 4 5 0 0 5 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,1,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:300][473]LogRHI: Display: Encountered a new graphics PSO: 2228799481
+[2021.03.31-20.26.20:302][473]LogRHI: Display: New Graphics PSO (2228799481) Description: 9FE798573A51AAB3F8ED48D032B03CB243B79781,429A917BD6CA303CC9F4015F562C1F702B18C45F,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 4 5 0 0 5 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,1,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:321][473]LogRHI: Display: Encountered a new graphics PSO: 1805062132
+[2021.03.31-20.26.20:321][473]LogRHI: Display: New Graphics PSO (1805062132) Description: 26E6454944535E94E535582E0E9A71595C281DB7,041603C6782B55DB4A7896F4D3845D68D760DB40,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<2 1 1 0 1 0 3 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 2 1 0>,<0 7 1 5 1 1 1 0 5 1 1 1 255 255>,1,11,1049100,1,1,0,1,1,1,2,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 4 0 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:321][473]LogRHI: Display: Encountered a new graphics PSO: 3140188
+[2021.03.31-20.26.20:321][473]LogRHI: Display: New Graphics PSO (3140188) Description: 6CC0CE2A223480F144D2733A89159D7FC2717F23,9A11A2B55693EDA1463C0B000641B0D287D56E5F,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 4 0 1 0 7 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,11,1049100,1,1,0,1,0,1,10,1114121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 2 0 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:325][473]LogRHI: Display: Encountered a new graphics PSO: 4151732152
+[2021.03.31-20.26.20:325][473]LogRHI: Display: New Graphics PSO (4151732152) Description: 2E45D6FBF0EF03920D5025941CDDCC8BB7E37133,21BD42C8D080CF18758C45047D30547D4AF8AED3,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,8388617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:345][473]LogRHI: Display: Encountered a new graphics PSO: 1669879090
+[2021.03.31-20.26.20:345][473]LogRHI: Display: New Graphics PSO (1669879090) Description: DEA333A276FF6000AE66DDFEE844090329B4E053,318742384DA8EE9F5A03B828ABE7F750E9AE1DB5,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,8388617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:347][473]LogRHI: Display: Encountered a new graphics PSO: 2231114555
+[2021.03.31-20.26.20:347][473]LogRHI: Display: New Graphics PSO (2231114555) Description: 90E880A06EE66DAFCB6C87076B719A148EEF7959,6383B08D47CA16EFC04AF739DBA23688833AD210,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:350][473]LogRHI: Display: Encountered a new graphics PSO: 1407007403
+[2021.03.31-20.26.20:350][473]LogRHI: Display: New Graphics PSO (1407007403) Description: DEA333A276FF6000AE66DDFEE844090329B4E053,28C0C303111BCB7786EB998A89708BEE02E8E102,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 0 6 0 0 1 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,8388617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:350][473]LogRHI: Display: Encountered a new graphics PSO: 572485601
+[2021.03.31-20.26.20:350][473]LogRHI: Display: New Graphics PSO (572485601) Description: DEA333A276FF6000AE66DDFEE844090329B4E053,6D8F21B8AA40A983BCE474552DE1B3620E284299,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,8388617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:350][473]LogRHI: Display: Encountered a new graphics PSO: 1447915912
+[2021.03.31-20.26.20:350][473]LogRHI: Display: New Graphics PSO (1447915912) Description: DEA333A276FF6000AE66DDFEE844090329B4E053,CE47791E7E97E6AA631D56A9C527F1F3E6BCF105,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,8388617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:350][473]LogRHI: Display: Encountered a new graphics PSO: 4241678413
+[2021.03.31-20.26.20:350][473]LogRHI: Display: New Graphics PSO (4241678413) Description: DEA333A276FF6000AE66DDFEE844090329B4E053,47EBD32454BA70C332940FC964257CB5650366D3,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:355][473]LogRHI: Display: Encountered a new graphics PSO: 2277212379
+[2021.03.31-20.26.20:355][473]LogRHI: Display: New Graphics PSO (2277212379) Description: DEA333A276FF6000AE66DDFEE844090329B4E053,B37062FA55EA1E03F64550AA1DD486EE3C9BF6A3,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,8388617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:359][473]LogRHI: Display: Encountered a new graphics PSO: 1930609198
+[2021.03.31-20.26.20:359][473]LogRHI: Display: New Graphics PSO (1930609198) Description: FE850A377AF59873564394AC863688BB462F543C,148F1758900540DCA3B959D9558B986949E8D87E,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,1048585,0,0,2,25,0,0,2,9,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,9,<0 0 3 0 12 0>,<1 0 14 1 16 0>,<1 8 14 2 16 0>,<2 0 8 3 0 0>,<3 0 12 4 4 0>,<3 0 12 5 4 0>,<3 0 12 6 4 0>,<3 0 12 7 4 0>,<3 0 12 15 4 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:359][473]LogRHI: Display: Encountered a new graphics PSO: 2186139969
+[2021.03.31-20.26.20:359][473]LogRHI: Display: New Graphics PSO (2186139969) Description: FE850A377AF59873564394AC863688BB462F543C,121D8D21A0438ADA3DB252DA07721A5216B0F204,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,1048585,0,0,2,25,0,0,2,9,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,9,<0 0 3 0 12 0>,<1 0 14 1 16 0>,<1 8 14 2 16 0>,<2 0 8 3 0 0>,<3 0 12 4 4 0>,<3 0 12 5 4 0>,<3 0 12 6 4 0>,<3 0 12 7 4 0>,<3 0 12 15 4 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:359][473]LogRHI: Display: Encountered a new graphics PSO: 1616644583
+[2021.03.31-20.26.20:359][473]LogRHI: Display: New Graphics PSO (1616644583) Description: 43D90717AD90D7128BAF36E5EBDB3C74B2E172D8,57A84081AA20A9394BE797BB8E1BBCB2E5AEFCB3,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 1 0 1 1 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,10,1114121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:361][473]LogRHI: Display: Encountered a new graphics PSO: 3996317948
+[2021.03.31-20.26.20:361][473]LogRHI: Display: New Graphics PSO (3996317948) Description: 344F439A239B1E277C94A354C5AADE5E4C6B4B2B,26D868691809CD9FABEB6847D586AF96093A92EA,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,1048585,0,0,2,25,0,0,2,9,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:361][473]LogRHI: Display: Encountered a new graphics PSO: 3571558735
+[2021.03.31-20.26.20:361][473]LogRHI: Display: New Graphics PSO (3571558735) Description: 344F439A239B1E277C94A354C5AADE5E4C6B4B2B,A72145BA17BBCAED4825C1962A627C41E2E4AFA8,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,1048585,0,0,2,25,0,0,2,9,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:361][473]LogRHI: Display: Encountered a new graphics PSO: 1796435893
+[2021.03.31-20.26.20:361][473]LogRHI: Display: New Graphics PSO (1796435893) Description: A3DADF35EDE7C50E0F596D54CA04BBB340071C3D,80EA7A5CEE3E083759469912DE3B20C41EF63231,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 4 5 0 0 5 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,1,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:361][473]LogRHI: Display: Encountered a new graphics PSO: 4133905709
+[2021.03.31-20.26.20:361][473]LogRHI: Display: New Graphics PSO (4133905709) Description: 344F439A239B1E277C94A354C5AADE5E4C6B4B2B,E048F8266E33E4A702B0F248BA6F44333F4930CC,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,1048585,0,0,2,25,0,0,2,9,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:361][473]LogRHI: Display: Encountered a new graphics PSO: 1507735361
+[2021.03.31-20.26.20:361][473]LogRHI: Display: New Graphics PSO (1507735361) Description: 9FE798573A51AAB3F8ED48D032B03CB243B79781,5CAB78EDD0C3D83EEA1A18CABA7F9C478331B288,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 4 5 0 0 5 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,1,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:361][473]LogRHI: Display: Encountered a new graphics PSO: 3123772504
+[2021.03.31-20.26.20:361][473]LogRHI: Display: New Graphics PSO (3123772504) Description: B385770D4DE8C64EF3C1D39FC4E9034AEA4E3C6E,308EA42C1808F74315A3BF62E42CA51C4F617CB7,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,1048585,0,0,2,25,0,0,2,9,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.20:376][474]LogRHI: Display: Encountered a new graphics PSO: 734707551
+[2021.03.31-20.26.20:376][474]LogRHI: Display: New Graphics PSO (734707551) Description: 0CBE5C31F97C3AF07D4715ADE58586E782E59003,0A87B7B5D9B500C7E40EAC2282440D8BB88EDFB7,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 4 5 0 0 1 7 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,<0 0 4 0 48 0>,<0 16 2 1 48 0>,<0 24 4 2 48 0>,<0 40 8 3 48 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.28:224][830]LogRHI: Display: Encountered a new graphics PSO: 2619234539
+[2021.03.31-20.26.28:224][830]LogRHI: Display: New Graphics PSO (2619234539) Description: 344F439A239B1E277C94A354C5AADE5E4C6B4B2B,2C011F14BF94DFC1766C0A5EC47C3C499D7A8396,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,9,0,0,2,25,0,0,2,9,0,0,2,1048585,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.28:228][830]LogRHI: Display: Encountered a new graphics PSO: 4261038306
+[2021.03.31-20.26.28:228][830]LogRHI: Display: New Graphics PSO (4261038306) Description: B385770D4DE8C64EF3C1D39FC4E9034AEA4E3C6E,FEC0B94EF281B98B3B5C28FFB03E56B97AF4E859,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,9,0,0,2,25,0,0,2,9,0,0,2,1048585,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 13 4 8 0>,<4 0 13 5 8 0>,<4 0 13 6 8 0>,<4 0 13 7 8 0>,<4 4 12 15 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.30:727][927]LogRHI: Display: Encountered a new graphics PSO: 1082339468
+[2021.03.31-20.26.30:727][927]LogRHI: Display: New Graphics PSO (1082339468) Description: BD3C53FE2B8D57D7AF09F98C1C0A605A50A53ECD,0E156703E9BDE988C04529A66A2EF22EF4D2247C,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,2,1,9,0,0,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 2 0 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.30:729][927]LogRHI: Display: Encountered a new graphics PSO: 768430045
+[2021.03.31-20.26.30:729][927]LogRHI: Display: New Graphics PSO (768430045) Description: B385770D4DE8C64EF3C1D39FC4E9034AEA4E3C6E,A1A7831A09088FCAF1414BB5B3677B934E1E100D,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,6,10,1114121,0,0,18,9,0,0,2,9,0,0,2,25,0,0,2,9,0,0,2,1048585,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 12 4 4 0>,<4 0 12 5 4 0>,<4 0 12 6 4 0>,<4 0 12 7 4 0>,<4 0 12 15 4 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.30:729][927]LogRHI: Display: Encountered a new graphics PSO: 3459201160
+[2021.03.31-20.26.30:729][927]LogRHI: Display: New Graphics PSO (3459201160) Description: B6E93355762A738947C60F52C38352257D40BB78,CBD5F93407D71D6F7834521FA7CA9CC75F643871,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 0 7 0 0 0 0 7 0 0 0 255 255>,1,11,1049100,1,1,1,1,0,1,14,65545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,<0 0 3 0 12 0>,<1 0 20 13 4 1>,<2 0 5 1 8 0>,<2 4 5 2 8 0>,<3 0 8 3 0 0>,<4 0 12 4 4 0>,<4 0 12 5 4 0>,<4 0 12 6 4 0>,<4 0 12 7 4 0>,<4 0 12 15 4 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.30:748][928]LogRHI: Display: Encountered a new graphics PSO: 980115555
+[2021.03.31-20.26.30:748][928]LogRHI: Display: New Graphics PSO (980115555) Description: BD3C53FE2B8D57D7AF09F98C1C0A605A50A53ECD,83CA132F985FB1F62B564CD6F250F2AC2F11B538,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,2,1,9,0,0,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 2 0 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.30:748][928]LogRHI: Display: Encountered a new graphics PSO: 1594031112
+[2021.03.31-20.26.30:748][928]LogRHI: Display: New Graphics PSO (1594031112) Description: 4E7A3B7A60C4C02942052DB5AF91A70E04D0C0BB,C89BA2C18FCCA36C3AAE7E84681CE1CED07CC57D,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,4,1,9,0,0,10,9,0,0,2,570425353,0,0,2,570425353,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,<0 0 4 0 72 1>,<0 16 4 1 72 1>,<0 32 4 2 72 1>,<0 48 4 3 72 1>,<0 64 2 4 72 1>,<1 0 2 5 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.30:750][928]LogRHI: Display: Encountered a new graphics PSO: 136074750
+[2021.03.31-20.26.30:750][928]LogRHI: Display: New Graphics PSO (136074750) Description: BD3C53FE2B8D57D7AF09F98C1C0A605A50A53ECD,9525F9145FF3F69C8FC4313AB1A6F051CE15FA42,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,0,0,0,0,0,0,0,2,1,9,0,0,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 2 0 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.30:752][928]LogRHI: Display: Encountered a new graphics PSO: 3662272557
+[2021.03.31-20.26.30:752][928]LogRHI: Display: New Graphics PSO (3662272557) Description: 1353EB6400E9D676C47274D08C2E2947F8954A82,3E8A80E92B1A6C8984A676901F7A65BA6DD8460B,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 4 5 0 0 5 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 8 8>,1,11,1049100,1,1,0,1,0,1,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 2 0 8 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.30:754][928]LogRHI: Display: Encountered a new graphics PSO: 4206016265
+[2021.03.31-20.26.30:755][928]LogRHI: Display: New Graphics PSO (4206016265) Description: 90E880A06EE66DAFCB6C87076B719A148EEF7959,B48E61086286C71FADC5478A399E106F4799A202,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 1 4 0 0 0 0 4 0 0 0 1 1>,1,11,1049100,1,1,0,1,0,1,10,65545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.30:755][928]LogRHI: Display: Encountered a new graphics PSO: 1438608562
+[2021.03.31-20.26.30:755][928]LogRHI: Display: New Graphics PSO (1438608562) Description: 90E880A06EE66DAFCB6C87076B719A148EEF7959,A2193C2D8E8FEAD2C86211968BD3E27C97664239,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 7 1 4 0 0 1 0 4 0 0 1 1 1>,1,11,1049100,1,1,0,1,0,1,10,1114121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,<0 0 4 0 32 0>,<0 16 2 1 32 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.30:923][934]LogRHI: Display: Encountered a new graphics PSO: 2837939741
+[2021.03.31-20.26.30:924][934]LogRHI: Display: New Graphics PSO (2837939741) Description: D8F8D5A1EE6F57BD57BB9E93D32B9026218A7451,11E04D53B8769C0DEBF0CB946A527301E6B9C371,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 1 0 1 1 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 2 1 0>,<0 7 0 7 0 0 0 0 7 0 0 0 255 255>,1,11,1049100,1,1,0,1,0,1,10,1114121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,<0 0 4 0 16 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.30:930][934]LogRHI: Display: Encountered a new graphics PSO: 2008173303
+[2021.03.31-20.26.30:930][934]LogRHI: Display: New Graphics PSO (2008173303) Description: 4271BC9B022C4B0831625719857AF8951CC454A5,CB0472AA0151A8564AD139C52ECA4F39FAB5D2EA,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 4 5 0 0 5 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,1,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,<0 0 2 4 8 0>,<1 0 4 0 64 1>,<1 16 4 1 64 1>,<1 32 4 2 64 1>,<1 48 4 3 64 1>,<2 0 4 5 16 1>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.30:971][936]LogRHI: Display: Encountered a new graphics PSO: 1390107881
+[2021.03.31-20.26.30:971][936]LogRHI: Display: New Graphics PSO (1390107881) Description: B3667D708585A9ACE878B60A87BAB0FA3695F554,F01E730FB70446F237A7C589BE14038D494D87C5,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 4 5 0 0 5 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,1,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,<0 0 2 4 8 0>,<1 0 4 0 64 1>,<1 16 4 1 64 1>,<1 32 4 2 64 1>,<1 48 4 3 64 1>,<2 0 4 5 16 1>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.30:971][936]LogRHI: Display: Encountered a new graphics PSO: 4078309367
+[2021.03.31-20.26.30:971][936]LogRHI: Display: New Graphics PSO (4078309367) Description: 63D6ACAEEB2AF118AEA2AB4F67E42CC0295F6E55,CB4DE2A5B750C0AEDEA915D1994F959A778CECB5,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 1 0 1 1 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 0 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 1 1>,1,11,1049100,1,1,0,1,0,1,2,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,<0 0 2 4 8 0>,<1 0 4 0 64 1>,<1 16 4 1 64 1>,<1 32 4 2 64 1>,<1 48 4 3 64 1>,<2 0 4 5 16 1>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.31:242][945]LogRHI: Display: Encountered a new graphics PSO: 72372885
+[2021.03.31-20.26.31:242][945]LogRHI: Display: New Graphics PSO (72372885) Description: 9E048B35F746AE0FA8E703FAFEFB8CC95711DD02,4A3AE8A5CE02B7D763A46BF50A806A1671822CB6,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 4 5 0 0 5 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,1,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,<0 0 2 4 8 0>,<1 0 4 0 64 1>,<1 16 4 1 64 1>,<1 32 4 2 64 1>,<1 48 4 3 64 1>,<2 0 4 5 0 1>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.32:613][986]LogRHI: Display: Encountered a new graphics PSO: 1240485559
+[2021.03.31-20.26.32:613][986]LogRHI: Display: New Graphics PSO (1240485559) Description: DA1B6591B17D74DC66AEF49B43DEE116DB74ED48,EBBE4214759B401155CC05A9E894ADA919E1B86A,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 1 0 1 1 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 1 1>,1,11,1049100,1,1,0,1,0,1,2,1048585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,<0 0 2 4 8 0>,<1 0 4 0 64 1>,<1 16 4 1 64 1>,<1 32 4 2 64 1>,<1 48 4 3 64 1>,<2 0 4 5 16 1>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.32:615][986]LogRHI: Display: Encountered a new graphics PSO: 1246641689
+[2021.03.31-20.26.32:615][986]LogRHI: Display: New Graphics PSO (1246641689) Description: 5A9C9B670D7BE920FCA76F9516535A8F560BEC2C,BD12856070343A1E90B2ECE55CB92B47E01B6CF0,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 1 0 0 5 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,1,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,<0 0 2 4 8 0>,<1 0 4 0 64 1>,<1 16 4 1 64 1>,<1 32 4 2 64 1>,<1 48 4 3 64 1>,<2 0 4 5 16 1>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.32:615][986]LogRHI: Display: Encountered a new graphics PSO: 345303904
+[2021.03.31-20.26.32:615][986]LogRHI: Display: New Graphics PSO (345303904) Description: A928891ABD837F339CC112D4A16FADBF9BFB1986,5D91BAC21DBAE8756A3B91041041246651AA9FDB,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 1 0 0 5 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 255 240>,1,11,1049100,1,1,0,1,0,1,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,<0 0 2 4 8 0>,<1 0 4 0 64 1>,<1 16 4 1 64 1>,<1 32 4 2 64 1>,<1 48 4 3 64 1>,<2 0 4 5 0 1>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.26.32:615][986]LogRHI: Display: Encountered a new graphics PSO: 1321344942
+[2021.03.31-20.26.32:615][986]LogRHI: Display: New Graphics PSO (1321344942) Description: B24EC3240010E420FA30CC6466F31EF966918807,8C9FF42311BB9139D3CB7A03E5BCD23ED687D261,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,0000000000000000000000000000000000000000,<0 1 1 0 0 5 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 0 1 0 0 1 0 15 1>,<0.000000 0.000000 2 1 1 0>,<0 3 1 7 0 0 2 0 7 0 0 2 8 8>,1,11,1049100,1,1,0,1,0,1,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,<0 0 2 4 8 0>,<1 0 4 0 64 1>,<1 16 4 1 64 1>,<1 32 4 2 64 1>,<1 48 4 3 64 1>,<2 0 4 5 0 1>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>,<0 0 0 0 0 0>
+[2021.03.31-20.28.59:152][ 95]LogSlate: Request Window 'ToTheMoon (64-bit Development PCD3D_SM5) ' being destroyed
+[2021.03.31-20.28.59:261][ 95]LogSlate: Window 'ToTheMoon (64-bit Development PCD3D_SM5) ' being destroyed
+[2021.03.31-20.28.59:331][ 95]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.31-20.28.59:335][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-20.28.59:335][ 96]LogEngine: All Windows Closed
+[2021.03.31-20.28.59:335][ 96]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.03.31-20.28.59:335][ 96]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.03.31-20.28.59:335][ 97]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.03.31-20.28.59:336][ 97]LogAudio: Display: Shutting down audio device while 2 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2021.03.31-20.28.59:362][ 97]LogInit: Display: PreExit Game.
+[2021.03.31-20.28.59:391][ 97]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/FirstPersonExampleMap
+[2021.03.31-20.28.59:396][ 97]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-20.28.59:403][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-20.28.59:878][ 97]LogExit: Preparing to exit.
+[2021.03.31-20.28.59:879][ 97]LogMoviePlayer: Shutting down movie player
+[2021.03.31-20.28.59:884][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-20.28.59:886][ 97]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.03.31-20.28.59:894][ 97]LogExit: Game engine shut down
+[2021.03.31-20.28.59:901][ 97]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001B5996D1D00), frame # 7097
+[2021.03.31-20.28.59:901][ 97]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B591274AC0), frame # 7097
+[2021.03.31-20.28.59:901][ 97]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B5905E6200), frame # 7097
+[2021.03.31-20.28.59:903][ 97]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B59AB69A00), frame # 7097
+[2021.03.31-20.28.59:904][ 97]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B59A189700), frame # 7097
+[2021.03.31-20.28.59:942][ 97]LogExit: Object subsystem successfully closed.
+[2021.03.31-20.28.59:970][ 97]LogModuleManager: Shutting down and abandoning module AutomationController (320)
+[2021.03.31-20.28.59:970][ 97]LogModuleManager: Shutting down and abandoning module AutomationWorker (318)
+[2021.03.31-20.28.59:970][ 97]LogModuleManager: Shutting down and abandoning module Voice (316)
+[2021.03.31-20.28.59:970][ 97]LogModuleManager: Shutting down and abandoning module AIModule (314)
+[2021.03.31-20.28.59:970][ 97]LogModuleManager: Shutting down and abandoning module GameplayDebugger (313)
+[2021.03.31-20.28.59:970][ 97]LogModuleManager: Shutting down and abandoning module NavigationSystem (311)
+[2021.03.31-20.28.59:970][ 97]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (308)
+[2021.03.31-20.28.59:970][ 97]LogModuleManager: Shutting down and abandoning module WebMMedia (306)
+[2021.03.31-20.28.59:970][ 97]LogModuleManager: Shutting down and abandoning module OculusMR (304)
+[2021.03.31-20.28.59:970][ 97]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (302)
+[2021.03.31-20.28.59:971][ 97]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (300)
+[2021.03.31-20.28.59:971][ 97]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (298)
+[2021.03.31-20.28.59:971][ 97]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (296)
+[2021.03.31-20.28.59:971][ 97]LogModuleManager: Shutting down and abandoning module CharacterAI (294)
+[2021.03.31-20.28.59:971][ 97]LogModuleManager: Shutting down and abandoning module PlanarCut (292)
+[2021.03.31-20.28.59:971][ 97]LogModuleManager: Shutting down and abandoning module SessionServices (290)
+[2021.03.31-20.28.59:971][ 97]LogModuleManager: Shutting down and abandoning module LiveCoding (288)
+[2021.03.31-20.28.59:971][ 97]LogModuleManager: Shutting down and abandoning module LevelSequence (286)
+[2021.03.31-20.28.59:971][ 97]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (284)
+[2021.03.31-20.28.59:971][ 97]LogModuleManager: Shutting down and abandoning module MovieScene (282)
+[2021.03.31-20.28.59:971][ 97]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (280)
+[2021.03.31-20.28.59:971][ 97]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (278)
+[2021.03.31-20.28.59:971][ 97]LogModuleManager: Shutting down and abandoning module AudioMixerCore (277)
+[2021.03.31-20.28.59:971][ 97]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (274)
+[2021.03.31-20.28.59:972][ 97]LogModuleManager: Shutting down and abandoning module ProfilerService (272)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module TaskGraph (270)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module Synthesis (268)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module OculusInput (266)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (264)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module GooglePAD (262)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (260)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module CableComponent (258)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module AudioCapture (256)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (255)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module AssetTags (252)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (250)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module AppleImageUtils (248)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module AndroidPermission (246)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module TemplateSequence (244)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module MediaCompositing (242)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module ImgMedia (240)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (238)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (236)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (234)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (232)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (230)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module ChaosNiagara (228)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (226)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (224)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module EditableMesh (222)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (220)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module MeshConversion (218)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module DynamicMesh (216)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (214)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module GeometricObjects (212)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module ChaosCloth (210)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module BackChannel (208)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module AutomationUtils (206)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (204)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module GeometryCache (202)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module UObjectPlugin (200)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module ToTheMoon (198)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module SoundFields (196)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (194)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (190)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module ActorSequence (188)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module UdpMessaging (186)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module TcpMessaging (184)
+[2021.03.31-20.29.00:019][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (182)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (180)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (178)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (176)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (174)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (172)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (170)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (168)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapController (166)
+[2021.03.31-20.29.00:020][ 97]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (164)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapAR (162)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module AugmentedReality (161)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (158)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (156)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module Niagara (154)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module SignalProcessing (153)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module NiagaraCore (150)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module FacialAnimation (148)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module SignificanceManager (146)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module AnimationSharing (144)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (142)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module Paper2D (140)
+[2021.03.31-20.29.00:020][ 97]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (138)
+[2021.03.31-20.29.00:021][ 97]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (136)
+[2021.03.31-20.29.00:021][ 97]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (134)
+[2021.03.31-20.29.00:021][ 97]LogModuleManager: Shutting down and abandoning module PacketHandler (132)
+[2021.03.31-20.29.00:021][ 97]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (130)
+[2021.03.31-20.29.00:021][ 97]LogModuleManager: Shutting down and abandoning module MediaAssets (128)
+[2021.03.31-20.29.00:021][ 97]LogModuleManager: Shutting down and abandoning module Overlay (126)
+[2021.03.31-20.29.00:021][ 97]LogModuleManager: Shutting down and abandoning module FunctionalTesting (124)
+[2021.03.31-20.29.00:021][ 97]LogModuleManager: Shutting down and abandoning module MessageLog (122)
+[2021.03.31-20.29.00:022][ 97]LogModuleManager: Shutting down and abandoning module UMG (120)
+[2021.03.31-20.29.00:022][ 97]LogModuleManager: Shutting down and abandoning module SlateReflector (118)
+[2021.03.31-20.29.00:022][ 97]LogModuleManager: Shutting down and abandoning module Slate (116)
+[2021.03.31-20.29.00:022][ 97]LogModuleManager: Shutting down and abandoning module SlateCore (114)
+[2021.03.31-20.29.00:022][ 97]LogModuleManager: Shutting down and abandoning module MRMesh (112)
+[2021.03.31-20.29.00:023][ 97]LogModuleManager: Shutting down and abandoning module Messaging (110)
+[2021.03.31-20.29.00:023][ 97]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (108)
+[2021.03.31-20.29.00:023][ 97]LogModuleManager: Shutting down and abandoning module XAudio2 (106)
+[2021.03.31-20.29.00:023][ 97]LogModuleManager: Shutting down and abandoning module Networking (104)
+[2021.03.31-20.29.00:023][ 97]LogModuleManager: Shutting down and abandoning module Core (102)
+[2021.03.31-20.29.00:023][ 97]LogModuleManager: Shutting down and abandoning module ImageWrapper (98)
+[2021.03.31-20.29.00:023][ 97]LogModuleManager: Shutting down and abandoning module D3D12RHI (96)
+[2021.03.31-20.29.00:023][ 97]LogModuleManager: Shutting down and abandoning module InputCore (94)
+[2021.03.31-20.29.00:023][ 97]LogModuleManager: Shutting down and abandoning module Settings (92)
+[2021.03.31-20.29.00:023][ 97]LogModuleManager: Shutting down and abandoning module PhysXCooking (90)
+[2021.03.31-20.29.00:024][ 97]LogModuleManager: Shutting down and abandoning module ChaosSolvers (88)
+[2021.03.31-20.29.00:024][ 97]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (87)
+[2021.03.31-20.29.00:024][ 97]LogModuleManager: Shutting down and abandoning module Chaos (84)
+[2021.03.31-20.29.00:024][ 97]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2021.03.31-20.29.00:024][ 97]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2021.03.31-20.29.00:024][ 97]LogModuleManager: Shutting down and abandoning module AVEncoder (80)
+[2021.03.31-20.29.00:024][ 97]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (76)
+[2021.03.31-20.29.00:024][ 97]LogModuleManager: Shutting down and abandoning module SteamVRInput (74)
+[2021.03.31-20.29.00:024][ 97]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2021.03.31-20.29.00:024][ 97]LogHMD: Freeing OpenVRDLLHandle.
+[2021.03.31-20.29.00:024][ 97]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2021.03.31-20.29.00:024][ 97]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2021.03.31-20.29.00:024][ 97]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2021.03.31-20.29.00:024][ 97]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (62)
+[2021.03.31-20.29.00:025][ 97]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2021.03.31-20.29.00:050][ 97]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2021.03.31-20.29.00:051][ 97]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2021.03.31-20.29.00:051][ 97]LogModuleManager: Shutting down and abandoning module Media (51)
+[2021.03.31-20.29.00:051][ 97]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2021.03.31-20.29.00:051][ 97]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (46)
+[2021.03.31-20.29.00:051][ 97]LogModuleManager: Shutting down and abandoning module NiagaraShader (44)
+[2021.03.31-20.29.00:051][ 97]LogModuleManager: Shutting down and abandoning module VariantManagerContent (42)
+[2021.03.31-20.29.00:051][ 97]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2021.03.31-20.29.00:051][ 97]LogModuleManager: Shutting down and abandoning module AISupportModule (38)
+[2021.03.31-20.29.00:051][ 97]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (36)
+[2021.03.31-20.29.00:051][ 97]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (34)
+[2021.03.31-20.29.00:051][ 97]LogModuleManager: Shutting down and abandoning module PlatformCrypto (32)
+[2021.03.31-20.29.00:051][ 97]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.03.31-20.29.00:051][ 97]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.03.31-20.29.00:052][ 97]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.03.31-20.29.00:052][ 97]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.03.31-20.29.00:052][ 97]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.03.31-20.29.00:052][ 97]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.03.31-20.29.00:052][ 97]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.03.31-20.29.00:053][ 97]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.03.31-20.29.00:053][ 97]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.03.31-20.29.00:053][ 97]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.03.31-20.29.00:053][ 97]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.03.31-20.29.00:053][ 97]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.03.31-20.29.00:053][ 97]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.03.31-20.29.00:053][ 97]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.03.31-20.29.00:054][ 97]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.03.31-20.29.00:054][ 97]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.03.31-20.29.00:068][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: 64 items to release
+[2021.03.31-20.29.00:068][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 1920 x 1080 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.03.31-20.29.00:068][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 1920 x 1080 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.03.31-20.29.00:068][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 1920 x 1080 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.03.31-20.29.00:112][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "DefaultBloomKernel", 2048 x 2048 x 1, Mips: 1, Format: 0xA, Flags: 0x0
+[2021.03.31-20.29.00:119][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricBlackDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.03.31-20.29.00:128][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "MidGreyDummy", 1 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.03.31-20.29.00:128][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "StencilDummy", 1 x 1 x 1, Mips: 1, Format: 0x1E, Flags: 0x1
+[2021.03.31-20.29.00:128][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "MaxFP16Depth", 1 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.03.31-20.29.00:129][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "GreenDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.03.31-20.29.00:129][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "ZeroUIntDummy", 1 x 1 x 1, Mips: 1, Format: 0x2A, Flags: 0x1
+[2021.03.31-20.29.00:129][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "PreShadowCacheDepthZ", 4096 x 4096 x 1, Mips: 1, Format: 0x35, Flags: 0x2
+[2021.03.31-20.29.00:129][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "TemporalAA", 1920 x 1080 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.03.31-20.29.00:129][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.03.31-20.29.00:130][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2021.03.31-20.29.00:130][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap0", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2021.03.31-20.29.00:130][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap1", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2021.03.31-20.29.00:130][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap0", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2021.03.31-20.29.00:130][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap1", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2021.03.31-20.29.00:131][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkySHIrradianceMap", 9 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.03.31-20.29.00:131][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightAccumulation", 1920 x 1080 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.03.31-20.29.00:131][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDir1", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.03.31-20.29.00:131][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolume1", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.03.31-20.29.00:131][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 960 x 540 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.03.31-20.29.00:131][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "SmallDepthZ", 960 x 540 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.03.31-20.29.00:132][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.03.31-20.29.00:132][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistortedSceneColor", 1920 x 1080 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.03.31-20.29.00:132][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "Distortion", 1920 x 1080 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.03.31-20.29.00:132][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShadowDepthAtlas", 2048 x 2048 x 1, Mips: 1, Format: 0x35, Flags: 0x2
+[2021.03.31-20.29.00:132][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "WholeSceneShadowmap", 6144 x 2048 x 1, Mips: 1, Format: 0x35, Flags: 0x2
+[2021.03.31-20.29.00:133][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "AmbientOcclusionSetup", 960 x 540 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.03.31-20.29.00:133][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "AmbientOcclusion", 960 x 540 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.03.31-20.29.00:133][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "ScreenShadowMaskTexture", 1920 x 1080 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.03.31-20.29.00:133][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "ScreenSpaceReflections", 1920 x 1080 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.03.31-20.29.00:134][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightAttenuation", 1920 x 1080 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.03.31-20.29.00:134][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "SeparateTranslucency", 1920 x 1080 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.03.31-20.29.00:134][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColor", 1920 x 1080 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.03.31-20.29.00:134][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "VelocityFlat", 1920 x 1080 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.03.31-20.29.00:143][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "DilatedVelocityTile", 120 x 68 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.03.31-20.29.00:144][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "VelocityTile", 120 x 68 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.03.31-20.29.00:146][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "MotionBlur", 1920 x 1080 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.03.31-20.29.00:146][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 960 x 540 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.03.31-20.29.00:146][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 480 x 270 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.03.31-20.29.00:147][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 240 x 135 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.03.31-20.29.00:147][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 120 x 68 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.03.31-20.29.00:147][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 60 x 34 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.03.31-20.29.00:148][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 30 x 17 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.03.31-20.29.00:148][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 30 x 17 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.03.31-20.29.00:148][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 60 x 34 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.03.31-20.29.00:148][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 120 x 68 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.03.31-20.29.00:148][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 240 x 135 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.03.31-20.29.00:149][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 480 x 270 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.03.31-20.29.00:149][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomY", 960 x 540 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.03.31-20.29.00:149][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBFurthest", 64 x 64 x 1, Mips: 6, Format: 0x36, Flags: 0x4
+[2021.03.31-20.29.00:149][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionBrightness", 1 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.03.31-20.29.00:149][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 35 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2021.03.31-20.29.00:149][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.03.31-20.29.00:150][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 1 x 1 x 1, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.03.31-20.29.00:150][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.03.31-20.29.00:150][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.03.31-20.29.00:150][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.03.31-20.29.00:151][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2021.03.31-20.29.00:151][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.03.31-20.29.00:152][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2021.03.31-20.29.00:154][ 97]LogD3D12RHI: Display: D3D12 ReleaseResources: "None", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.03.31-20.29.00:285][ 97]LogD3D12RHI: ~FD3D12DynamicRHI
+[2021.03.31-20.29.00:288][ 97]LogExit: Exiting.
+[2021.03.31-20.29.00:294][ 97]Log file closed, 03/31/21 16:29:00
